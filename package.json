@@ -41,5 +41,8 @@
     "chai": "*",
     "mocha": "*",
     "karma": "~0.12"
-  }
+  },
+  "plugins": [
+          "Karma-firefox-launcher"
+  ]
 }
