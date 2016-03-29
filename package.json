@@ -40,7 +40,8 @@
     "blanket": "^1.2.2",
     "chai": "*",
     "mocha": "*",
-    "karma": "~0.12"
+    "karma": "~0.12",
+    "karma-firefox-launcher": "0.1.0"
   },
   "plugins": [
           "Karma-firefox-launcher"
