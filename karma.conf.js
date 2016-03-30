@@ -2,6 +2,7 @@
 // Generated on Wed Mar 30 2016 00:33:29 GMT+0100 (Hora de verano GMT)
 
 module.exports = function(config) {
+  'use strict';
   config.set({
 
     // base path that will be used to resolve all patterns (eg. files, exclude)
@@ -17,10 +18,10 @@ module.exports = function(config) {
     files: [
       'js/xregexp.js',
       'js/medida.js',
-      'js/temperatura.js',
+      'js/temperature.js',
       'js/main.js',
 
-      'tests/tests.js'
+      'tests/*.js'
     ],
 
 
