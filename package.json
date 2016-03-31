@@ -4,7 +4,7 @@
   "description": "Second exercice of subject Language of processors.",
   "main": "./js/main.js",
   "scripts": {
-    "test": "karma start --browsers Firefox --single-run"
+    "test": "karma start"
   },
   "repository": {
     "type": "git",
