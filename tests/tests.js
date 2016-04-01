@@ -25,6 +25,10 @@ describe('Medida', function() {
   });
 
   describe('#calculate', function() {
+    it("no deberia saber convertir", function(){
+      expect(medida.calculate("32c","j")).to.deep.equal('Desconozco como convertir desde');;
+    });
+
     it("deberia retornar un string", function(){
       expect(medida.calculate("32","c")).to.be.a("string");
     });
