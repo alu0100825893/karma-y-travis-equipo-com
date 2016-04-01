@@ -8,9 +8,9 @@
 * [Página de la asignatura PL Carlos](http://ctc87.github.io/Practicas_PL/)
 * [Página de la asignatura PL Oscar](https://alu0100825893.github.io/)
 * [Página de la asignatura PL Miguel](https://alu0100886870.github.io/pl.html)
-* [Repositorio](https://github.com/ULL-ESIT-GRADOII-PL/mocha-y-chai-equipo-com)
-* [Aplicación](http://ull-esit-gradoii-pl.github.io/mocha-y-chai-equipo-com/)
-* [Fork-Con los Issues](https://github.com/ctc87/mocha-y-chai-equipo-com)
+* [Repositorio](https://github.com/ULL-ESIT-GRADOII-PL/karma-y-travis-equipo-com)
+* [Aplicación](http://alu0100825893.github.io/karma-y-travis-equipo-com/)
+* [Fork-Con los Issues](https://github.com/alu0100825893/karma-y-travis-equipo-com.git)
 
 # Práctica PL.
 
@@ -24,4 +24,4 @@
 
 ##### Otros enlaces
 * Página de la asignatura (ULL): [Procesadores de Lenguaje](https://campusvirtual.ull.es/1516/course/view.php?id=178)
-* Página de la práctica (ULL): [Práctica: Mocha y Chai](https://campusvirtual.ull.es/1516/mod/workshop/view.php?id=182949)
+* Página de la práctica (ULL): [Descripción de la práctica: Karma y Travis](https://campusvirtual.ull.es/1516/mod/page/view.php?id=184132)
