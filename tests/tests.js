@@ -26,7 +26,7 @@ describe('Medida', function() {
 
   describe('#calculate', function() {
     it("no deberia saber convertir de c a j (caso edge)", function(){
-      expect(medida.calculate("32c","j")).to.deep.equal('Desconozco como convertir desde "c" hasta "j" \n TypeError: source.toundefined is not a function');
+      expect(medida.calculate("32c","j")).to.deep.equal('Desconozco como convertir desde "c" hasta "j" \n TypeError: undefined is not a function (evaluating \'source.toundefined()\')');
     });
 
     it("deberia retornar un string", function(){
