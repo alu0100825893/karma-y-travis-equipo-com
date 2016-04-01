@@ -22,7 +22,7 @@ exports.Medida = function Medida(valor,tipo) {
 
 }
 
-Medida.prototype.tipoMedida = {  
+Medida.prototype.tipoMedida = {
      k:'Kelvin', f:'Fahrenheit',c:'Celsius'
   };
 
@@ -50,7 +50,7 @@ Medida.prototype.calculate = function(original, convertir) {
     }
     catch(err) {
 
-      return 'Desconozco como convertir desde "' + tipo + '" hasta "' + destino + '" \n ' + err;
+      return 'Desconozco como convertir desde "' + tipo + '" hasta "' + destino + '" \n';
     }
   }
   else
