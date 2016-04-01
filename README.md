@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/alu0100825893/karma-y-travis-equipo-com.svg?branch=gh-pages)](https://travis-ci.org/alu0100825893/karma-y-travis-equipo-com)
+
 ![temp](/img/favicon.png)
 
 * [Página en Github Carlos](https://ctc87.github.io/)
@@ -10,13 +12,15 @@
 * [Aplicación](http://ull-esit-gradoii-pl.github.io/mocha-y-chai-equipo-com/)
 * [Fork-Con los Issues](https://github.com/ctc87/mocha-y-chai-equipo-com)
 
-# Cuarta práctica PL.
+# Práctica PL.
 
-#### Mocha y Chai
-En esta práctica el objetivo es añadir pruebas usando Mocha y Chai a la Práctica: Eliminando Switch Smell realizada anteriormente así como hacer un análisis de cubrimiento usando blanketjs.
-* Se hacen pruebas a las clases definidas.
-* Análisis de cubrimiento usando BlanketJS.
-* Añadir un gulpfile.js con tareas minify.
+#### Karma y Travis
+
+* Pruebas con Karma y Travis.
+
+* Añadido a su README.md un badge Travis.
+
+* Requisito opcional: Use el plugin gulp-gh-pages para simplificar el despliegue en gh-pages. Vea la sección El plugin gulp-gh-pages
 
 ##### Otros enlaces
 * Página de la asignatura (ULL): [Procesadores de Lenguaje](https://campusvirtual.ull.es/1516/course/view.php?id=178)
